@@ -6,7 +6,7 @@ const Alexa = require('ask-sdk-core');
 
 const STREAMS = [
   {
-    'token': 'dabble-radio-1',
+    'token': 'teste_radio_mig',
     'url': 'https://radio02.zas.media/proxy/aleluia/stream',
     'metadata': {
       'title': 'Dabble Radio',

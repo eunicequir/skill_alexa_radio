@@ -11,7 +11,7 @@
 # The script does the following:
 #  - Run "npm install" in each sourceDir in skill.json
 
-SKILL_NAME=$1
+SKILL_NAME='teste_radio_mig'
 DO_DEBUG=${2:-false}
 TARGET=${3:-"all"}
 
